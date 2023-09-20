@@ -20,10 +20,8 @@ export default function Header () {
     <nav className="navbar row">
         <div className="col-12 col-md-3">
           <div className="navbar-brand">
-            <Link to="/">
-          
-              <img width="90px" id='rcorners' alt="AsikCart Logo" src='https://www.dsource.in/sites/default/files/gallery/4157/12.jpg'/>
-            </Link>
+          <Link to="/">
+          <img width="90px" id='rcorners' alt="AsikCart Logo" src='https://media.istockphoto.com/id/1414345770/vector/atheism-agnosticism-glyph-icon-vector-illustration.jpg?s=612x612&w=0&k=20&c=mykeDjRqvO2D9s0q0ZPoulExSLZNffamlU2jxxPJzOc='/></Link>
             </div>
         </div>
   
